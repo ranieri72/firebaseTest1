@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestFirebase1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sucesso">Login com sucesso</string>
+    <string name="falha">Login falho!</string>
+    <string name="branco">Esse campo é obrigatório!</string>
+    <string name="email_falho">Login invalido</string>
+    <string name="senha_falha">Senha minima de 6 caracteres</string>
+    <string name="senha2_falha">Senha não confere</string>
+
+    <string name="criar_email">Criar e-mail</string>
+    <string name="login_email">Login por e-mail</string>
+    <string name="login_gmail">Login por Gmail</string>
+    <string name="login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="gmail">Gmail</string>
+    <string name="senha">Senha</string>
+    <string name="senha2">Repita a senha</string>
+    <string name="bug">Gerar bug!</string>
+    <string name="permission">A description for the permission</string>
+
+    <string name="google_maps_key">AIzaSyDKYLRCF6fAZEl9Z4uhOWjVv2TeRDNCyaE</string>
+</resources>

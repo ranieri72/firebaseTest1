@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="7dp"
+    android:orientation="vertical"
+    tools:context="com.example.ranieriaguiar.testfirebase1.LoginEmailActivity">
+
+    <Button
+        android:id="@+id/login_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_email" />
+
+    <Button
+        android:id="@+id/create_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/criar_email" />
+
+    <Button
+        android:id="@+id/report_bug"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bug" />
+
+    <Button
+        android:id="@+id/alert_dialog_basic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertDialogBasic" />
+
+    <Button
+        android:id="@+id/alert_dialog_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertDialogList" />
+
+    <Button
+        android:id="@+id/alert_dialog_custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertDialogCustom" />
+
+    <Button
+        android:id="@+id/alert_dialog_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertDialogFragment" />
+
+    <ProgressBar
+        android:id="@+id/progBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/progress_bar_thread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="progressBarThread" />
+
+    <Button
+        android:id="@+id/maps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Google Maps API" />
+</LinearLayout>
+
+
